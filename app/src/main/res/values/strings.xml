@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TipTop</string>
+    <string name="poor">🙁</string>
+    <string name="acceptable">😐</string>
+    <string name="good">🙂</string>
+    <string name="great">😃</string>
+    <string name="amazing">😍</string>
+    <string name="nice">🍆</string>
+</resources>
